@@ -28,7 +28,7 @@
 # 📖 [Hello Rails Backend] <a name="about-project"></a>
 
 > Hello Rails Backend is an api made using ruby on rails and it serves random greeting message on its home page.
-
+#### Frontend repo is found [here](https://github.com/AmanWorku/hello-react-front-end)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
