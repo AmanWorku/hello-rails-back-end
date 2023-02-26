@@ -27,13 +27,12 @@
 
 # 📖 [Hello Rails Backend] <a name="about-project"></a>
 
-> Hello Rails React is a simple web app that combines functionalities of Ruby on Rails and React. It allows users to get a random greeting from the backend API. You can use the button to displ
+> Hello Rails Backend is an api made using ruby on rails and it serves random greeting message on its home page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 
 <details>
