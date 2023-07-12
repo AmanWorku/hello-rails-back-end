@@ -1,7 +1,3 @@
 Rails.application.routes.draw do
-  namespace :api do
-    namespace :v1 do
-      get '/greetings', to: 'greetings#random_greeting'
-    end
-  end
+  root to: "api/v1/greetings#random_greeting"
 end
